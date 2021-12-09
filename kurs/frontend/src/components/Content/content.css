@@ -1,0 +1,121 @@
+body {
+  background-color: #A29E9D;
+}
+
+.content {
+  padding-top: 80px;
+  color: #0F0F0F;
+  padding-bottom: 10px;
+  /* align-items: center; */
+}
+
+input::-webkit-input-placeholder {  color: #0F0F0F;} /* изменяем цвет placeholder */
+
+.emailForm {
+    width: 300px;
+    height: 30px;
+    background-color: #A29E9D;
+    color: #0F0F0F;
+    border-radius: 10px;
+    /* box-shadow: 0 0 10px rgba(0,0,0,0.5); */
+  }
+  
+  .passwordForm {
+    width: 300px;
+    height: 30px;
+    background-color: #A29E9D;
+    color: #0F0F0F;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .buttons {
+    padding-top: 20px;
+  }
+  
+  .buttons2 {
+    padding-top: 10px;
+  }
+  
+  .signIn {
+    height: 30px;
+    width: 100px;
+    background-color: #A29E9D;
+    color: #0F0F0F;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .logIn {
+    height: 40px;
+    width: 200px;
+    background-color: #A29E9D;
+    color: #0F0F0F;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .btnExit {
+    margin-top: 20px;
+    height: 40px;
+    width: 200px;
+    background-color: #A29E9D;
+    color: #0F0F0F;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .newsContainer {
+    width: 80%;
+    margin-left: 10%;
+    align-items: center;
+    text-align: center;
+  }
+
+  .news1 {
+    background-color: #2D2D2D;
+    border-radius: 10px;
+  }
+
+  .news2 {
+    background-color: #2D2D2D;
+    border-radius: 10px;
+  }
+
+  .newsTitle {
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #A29E9D;
+  }
+
+  .newsTitle2 {
+    padding: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    color: #A29E9D;
+  }
+
+  .newsContent {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    color: #A29E9D;
+  }
+
+  .newsContent2 {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-bottom: 10px;
+    color: #A29E9D;
+  }
+
+  .newsImage {
+    margin-bottom: 15px;
+  }
+
+  .newsImage2 {
+    height: 250px;
+    width: 500px;
+    margin-bottom: 15px;
+  }
